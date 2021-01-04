@@ -1,6 +1,0 @@
-# Mai-Estate
-Mock Professional Real Estate Website created with React.JS, Typescript, Node.JS, and Redux 
-Feel free to download and check out the code! However, please do keep in mind of your version incompatibilities,
-which may bring up errors when compiling. In addition, npm packages must be installed for the node modules!
-Most of the frontend implementation IS complete, but it requires a Backend application like Node.JS, which I may
-work on later!
